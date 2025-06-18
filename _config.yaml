@@ -1,0 +1,6 @@
+machine-learning-book/
+├── _config.yml
+├── index.md
+└── _posts/
+    └── gradient_descent.md
+    └── regression.md
