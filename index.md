@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "Gradient Descent: The Art of Rolling Downhill"
-date: 2025-06-01
+layout: home
+title: Machine Learning Fundamentals
 ---
 
 # Welcome to Machine Learning Fundamentals 🚀
@@ -14,7 +13,7 @@ I believe that the best way to truly understand machine learning is to build int
 
 ## Featured Posts
 
-### 📈 [Gradient Descent: The Art of Rolling Downhill]({% post_url 2025-06-01-gradient-descent %})
+### 📈 [Gradient Descent: The Art of Rolling Downhill]({{ site.baseurl }}{% post_url 2025-06-01-gradient-descent %})
 *June 1, 2025*
 
 Ever wondered how machines actually "learn"? It all starts with gradient descent - the workhorse optimization algorithm that powers modern AI. In this comprehensive guide, I'll take you from the intuitive "blindfolded on a mountain" analogy all the way through to advanced optimizers like Adam. 
@@ -25,11 +24,11 @@ Ever wondered how machines actually "learn"? It all starts with gradient descent
 - Common pitfalls and research-backed solutions
 - Why sometimes you need to go up instead of down!
 
-[Read more →]({% post_url 2025-06-01-gradient-descent %})
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-01-gradient-descent %})
 
 ---
 
-### 📊 [Regression: The Art of Drawing Lines Through Chaos]({% post_url 2025-06-05-regression %})
+### 📊 [Regression: The Art of Drawing Lines Through Chaos]({{ site.baseurl }}{% post_url 2025-06-05-regression %})
 *June 5, 2025*
 
 Regression is where many people's machine learning journey begins - and for good reason! It's intuitive, powerful, and forms the foundation for understanding more complex models. This guide takes you from simple linear regression all the way through regularization techniques.
@@ -40,7 +39,7 @@ Regression is where many people's machine learning journey begins - and for good
 - The five critical assumptions (and why they matter)
 - Real-world tips for better models
 
-[Read more →]({% post_url 2025-06-05-regression %})
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-05-regression %})
 
 ---
 
