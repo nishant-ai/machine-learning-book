@@ -43,6 +43,21 @@ Regression is where many people's machine learning journey begins - and for good
 
 ---
 
+### 🎯 [Support Vector Machines: Finding the Perfect Boundary]({{ site.baseurl }}{% post_url 2025-06-10-support-vector-machines %})
+*June 10, 2025*
+
+Ever wondered how to draw the BEST possible line between two groups? Support Vector Machines don't just find a boundary - they find the one with maximum confidence. In this guide, we'll explore the elegant mathematics behind SVMs and the kernel trick that makes them so powerful.
+
+**What you'll learn:**
+- The maximum margin principle and why it matters
+- Building an SVM from scratch
+- The kernel trick for non-linear problems
+- Practical tips for real-world applications
+
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-10-support-vector-machines %})
+
+---
+
 ## Coming Soon 🎯
 
 I'm constantly working on new content to help demystify machine learning. Here's what's in the pipeline:
