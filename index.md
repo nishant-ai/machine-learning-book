@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Machine Learning Fundamentals
+layout: post
+title: "Gradient Descent: The Art of Rolling Downhill"
+date: 2025-06-01
 ---
 
 # Welcome to Machine Learning Fundamentals 🚀
