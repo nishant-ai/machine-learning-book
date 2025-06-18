@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Gradient Descent: The Art of Rolling Downhill"
+date: 2025-06-01
+categories: [machine-learning, optimization]
+---
+
 # Gradient Descent: The Art of Rolling Downhill 🎢
 
 ## The Big Picture: What's This All About?

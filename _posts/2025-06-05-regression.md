@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Regression: The Art of Drawing Lines Through Chaos"
+date: 2025-06-05
+categories: [machine-learning, statistics]
+---
+
 # Regression: The Art of Drawing Lines Through Chaos 📈
 
 ## The Big Picture: What is Regression?
