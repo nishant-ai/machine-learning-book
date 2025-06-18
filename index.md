@@ -58,14 +58,21 @@ Ever wondered how to draw the BEST possible line between two groups? Support Vec
 
 ---
 
-## Coming Soon 🎯
+### 🌳 [Decision Trees: The Art of 20 Questions with Data]({{ site.baseurl }}{% post_url 2025-06-15-decision-trees %})
+*June 15, 2025*
 
-I'm constantly working on new content to help demystify machine learning. Here's what's in the pipeline:
+Remember playing "20 Questions" as a kid? That's exactly how decision trees work! They learn to ask the right questions about your data to make predictions. This guide takes you from the intuitive concept through implementation, visualization, and even into the forest of ensemble methods.
 
-- **Classification Algorithms**: From logistic regression to decision trees
-- **Neural Networks**: Building your first neural network from scratch
-- **Clustering**: Finding patterns when you don't have labels
-- **Dimensionality Reduction**: Making sense of high-dimensional data
+**What you'll learn:**
+- How trees split data using information theory
+- Building a decision tree classifier from scratch
+- Visualizing and interpreting tree decisions
+- Preventing overfitting with pruning techniques
+- Why Random Forests are better than single trees
+
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-15-decision-trees %})
+
+---
 
 ## About This Blog
 
