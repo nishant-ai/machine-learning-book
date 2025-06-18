@@ -74,8 +74,8 @@ permalink: /
     Currently, you can explore foundational topics such as:
   </p>
   <ul>
-    <li>**Gradient Descent:** Unravel the core optimization algorithm that powers many machine learning models, understanding its mechanics and variations.</li>
-    <li>**Regression:** Delve into one of the most fundamental supervised learning techniques, learning how to predict continuous outcomes from data.</li>
+    <li><a href="{{ '/gradient_descent' | relative_url }}">**Gradient Descent:**</a> Unravel the core optimization algorithm that powers many machine learning models, understanding its mechanics and variations.</li>
+    <li><a href="{{ '/regression' | relative_url }}">**Regression:**</a> Delve into one of the most fundamental supervised learning techniques, learning how to predict continuous outcomes from data.</li>
   </ul>
   <p>
     More chapters and interactive content are coming soon, covering a wider array of machine learning algorithms, practical applications, and advanced concepts. Stay tuned for updates!
