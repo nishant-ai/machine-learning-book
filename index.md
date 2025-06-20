@@ -102,7 +102,7 @@ Journey from a single artificial neuron to the deep architectures powering moder
 - Famous architectures: CNNs, RNNs, Transformers, and more
 - Practical tips for training deep networks
 
-[Read more →]({{ site.baseurl }}{% post_url 2025-06-25-neural-networks-introduction %})
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-20-neural-networks %})
 
 ---
 
