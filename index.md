@@ -74,6 +74,38 @@ Remember playing "20 Questions" as a kid? That's exactly how decision trees work
 
 ---
 
+### 🎲 [Naive Bayes: The Power of Simple Assumptions]({{ site.baseurl }}{% post_url 2025-06-20-naive-bayes %})
+*June 20, 2025*
+
+What if we could solve complex classification problems by making a "naive" assumption that all features are independent? Turns out, this simple idea leads to blazingly fast classifiers that work surprisingly well, especially for text classification. Join me as we explore the probabilistic foundations and practical applications of Naive Bayes.
+
+**What you'll learn:**
+- Bayes' theorem and how to update beliefs with evidence
+- Why the "naive" assumption is actually brilliant
+- Implementing Gaussian, Multinomial, and Bernoulli variants
+- Building a spam classifier from scratch
+- When simplicity beats complexity
+
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-20-naive-bayes %})
+
+---
+
+### 🧠 [Neural Networks: Teaching Machines to Think]({{ site.baseurl }}{% post_url 2025-06-25-neural-networks-introduction %})
+*June 25, 2025*
+
+Journey from a single artificial neuron to the deep architectures powering modern AI. This comprehensive guide takes you from zero to implementing your own neural network, explaining how these brain-inspired systems learn to recognize patterns, make decisions, and even create art.
+
+**What you'll learn:**
+- How artificial neurons mimic biological ones
+- Building neural networks from scratch
+- The backpropagation algorithm explained clearly
+- Famous architectures: CNNs, RNNs, Transformers, and more
+- Practical tips for training deep networks
+
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-25-neural-networks-introduction %})
+
+---
+
 ## About This Blog
 
 I'm a Computer Engineering graduate student at NYU Tandon, and I've been on both sides of the learning curve - from struggling to understand these concepts to teaching them to others. My goal is to create the resource I wish I had when I was starting out.
