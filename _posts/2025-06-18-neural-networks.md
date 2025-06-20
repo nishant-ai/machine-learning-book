@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neural Networks: Teaching Machines to Think"
-date: 2025-06-25
+date: 2025-06-18
 categories: [machine-learning, deep-learning, neural-networks]
 excerpt: "Journey from a single neuron to deep architectures that power modern AI. Learn how neural networks work, implement your first network from scratch, and explore the architectures revolutionizing technology"
 ---
