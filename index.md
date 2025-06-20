@@ -90,7 +90,7 @@ What if we could solve complex classification problems by making a "naive" assum
 
 ---
 
-### 🧠 [Neural Networks: Teaching Machines to Think]({{ site.baseurl }}{% post_url 2025-06-20-neural-networks %})
+### 🧠 [Neural Networks: Teaching Machines to Think]({{ site.baseurl }}{% post_url 2025-06-19-neural-networks %})
 *June 20, 2025*
 
 Journey from a single artificial neuron to the deep architectures powering modern AI. This comprehensive guide takes you from zero to implementing your own neural network, explaining how these brain-inspired systems learn to recognize patterns, make decisions, and even create art.
@@ -102,7 +102,7 @@ Journey from a single artificial neuron to the deep architectures powering moder
 - Famous architectures: CNNs, RNNs, Transformers, and more
 - Practical tips for training deep networks
 
-[Read more →]({{ site.baseurl }}{% post_url 2025-06-20-neural-networks %})
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-19-neural-networks %})
 
 ---
 
