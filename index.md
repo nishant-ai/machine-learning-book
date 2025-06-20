@@ -75,7 +75,7 @@ Remember playing "20 Questions" as a kid? That's exactly how decision trees work
 ---
 
 ### 🎲 [Naive Bayes: The Power of Simple Assumptions]({{ site.baseurl }}{% post_url 2025-06-16-naive-bayes %})
-*June 20, 2025*
+*June 16, 2025*
 
 What if we could solve complex classification problems by making a "naive" assumption that all features are independent? Turns out, this simple idea leads to blazingly fast classifiers that work surprisingly well, especially for text classification. Join me as we explore the probabilistic foundations and practical applications of Naive Bayes.
 
@@ -91,7 +91,7 @@ What if we could solve complex classification problems by making a "naive" assum
 ---
 
 ### 🧠 [Neural Networks: Teaching Machines to Think]({{ site.baseurl }}{% post_url 2025-06-20-neural-networks %})
-*June 25, 2025*
+*June 20, 2025*
 
 Journey from a single artificial neuron to the deep architectures powering modern AI. This comprehensive guide takes you from zero to implementing your own neural network, explaining how these brain-inspired systems learn to recognize patterns, make decisions, and even create art.
 
