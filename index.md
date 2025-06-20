@@ -86,7 +86,7 @@ What if we could solve complex classification problems by making a "naive" assum
 - Building a spam classifier from scratch
 - When simplicity beats complexity
 
-[Read more →]({{ site.baseurl }}{% post_url 2025-06-20-naive-bayes %})
+[Read more →]({{ site.baseurl }}{% post_url 2025-06-16-naive-bayes %})
 
 ---
 
